@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;com.wipro.cfw&apos;" deleteContents="false" description="Delete resource &apos;com.wipro.cfw&apos;" element1="/com.wipro.cfw" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1721193132367"/>&#x0A;<refactoring comment="Delete resource &apos;helloworld.java&apos;" deleteContents="true" description="Delete resource &apos;helloworld.java&apos;" element1="/helloworld.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1721196030536"/>
+</session>

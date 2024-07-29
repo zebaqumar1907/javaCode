@@ -1,0 +1,12 @@
+2024-07-16 12:50:54,662 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-07-23 11:52:25,964 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-24 10:34:20,645 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 15:51:31,044 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-24 15:52:40,175 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 15:52:46,184 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.1+8
+2024-07-24 15:52:46,382 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@68054603{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@596c7d52{STARTED}}
+2024-07-24 15:52:46,384 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-07-24 15:52:46,464 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@f9e9ece{HTTP/1.1, (http/1.1)}{127.0.0.1:53951}
+2024-07-24 15:52:46,484 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@394e43d2{STARTING}[12.0.9,sto=0] @43011ms
+2024-07-24 15:52:48,483 [qtp268530202-89] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2024-07-24 15:52:50,579 [qtp268530202-89] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
